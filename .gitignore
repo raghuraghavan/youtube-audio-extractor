@@ -1,0 +1,10 @@
+venv/
+venv/*
+.venv/
+.venv/*
+ffmpeg-*/
+ffmpeg-*
+.env
+*.mp3
+*.7z
+
